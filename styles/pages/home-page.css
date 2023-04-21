@@ -11,7 +11,7 @@
     margin-top: 46px;
     width: 100%;
     /* background-image: url("/assets/png/rain_bk.png"); */
-    background-image: url("../../assets/png/rain_bk.png");
+    background-image: url("./assets/png/rain_bk.png");
     background-position: 50% 35%;
     background-repeat: repeat-y;
     background-size: cover;
