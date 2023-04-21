@@ -184,7 +184,7 @@
     position: absolute;
     width: 23px;
     height: 23px;
-    background-image: url("./assets/svg/brackets.svg");
+    background-image: url("./../../assets/svg/brackets.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
