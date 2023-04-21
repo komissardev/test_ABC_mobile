@@ -30,7 +30,7 @@ export const OBJECT_SPA = {
         },
         {
             question: {
-                text:"Продолжите числовой ряд: 18 20 24 32",
+                text:"Выберите цвет, который сейчас наиболее Вам приятен:",
                 image: null
             },
             answer:{
