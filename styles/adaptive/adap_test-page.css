@@ -1,0 +1,38 @@
+@media screen and (max-width: 912px){
+    .test-container{
+        background-image: url("/assets/png/rain_bk2.png");
+    }
+    .test-indicator{
+        min-width: 100%;
+    }
+
+    .indicator-cont,
+    .test-answer-list-item{
+        width: 100%;
+    }
+
+    .test-btn button{
+        width: 189px;
+        height: 41px;
+    }
+
+    .results__banner{
+        font-size: 2.3rem;
+    }
+
+    .results__cont-dec{
+        height: 65px;
+        width: 65px;
+    }
+    .results__text{
+        width: 90%;
+        text-align: start;
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width: 330px){
+    .results__text{
+        overflow: hidden;
+    }
+}

@@ -1,0 +1,15 @@
+/*Global background-color variables style start*/
+:root{
+    --bd-cr-white:#FFFFFF;
+    --bd-cr-black: #000000;
+    --bd-cr-pale-black:#181818;
+    --bd-cr-nav-light-grey: #DADADA;
+    --bd-cr-nav-grey: #979797;
+    --bd-cr-nav-grey-opacity: #979797;
+    --bd-cr-dark-grey:#1C2741;
+    --bd-cr-pale-yellow:#FFC700;
+    --bd-cr-blue:#2950C2;
+    --bd-cr-red:#EB1B00;
+    --bd-cr-pale-green:#3BDE7C;
+}
+/*Global background-color variables style end*/

@@ -1,0 +1,6 @@
+@media screen and (max-width: 320px){
+    .home-page__info{
+        background-position: 50% -20%;
+        background-repeat: repeat-y;
+    }
+}
