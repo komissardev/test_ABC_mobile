@@ -259,7 +259,7 @@
     position: absolute;
     width: 165px;
     height: 165px;
-    background-image: url(./../../assets/png/lightning_PNG9.png");
+    background-image: url("./../../assets/png/lightning_PNG9.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
