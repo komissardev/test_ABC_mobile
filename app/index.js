@@ -136,7 +136,7 @@ function removeEllRoot (arg){
     document.querySelector(".body-cont__preloader").classList.add("_active-preloader");
 
     childrenRoot.forEach(e=>e.remove(e));
-    setTimeout(removePreloader, 2000);
+    setTimeout(removePreloader, 1000);
     _createElementTest(".root");
     _updateElementTest(OBJECT_SPA);
 };
