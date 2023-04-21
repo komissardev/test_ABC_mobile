@@ -1,0 +1,67 @@
+@media screen and (max-width: 912px){
+    .last-page{
+        /* background-image: url("/assets/png/rain_bk2.png"); */
+        background-image: url("../../assets/png/rain_bk2.png");
+    }
+    .last-page h2{
+        font-size: 1.6rem;
+    }
+
+    .last-page__text-first{
+        font-size: 1.4rem;
+        line-height: 18px;
+    }
+
+    .last-page h3{
+        font-size: 1.8rem;
+    }
+
+    .last-page__text-second{
+        font-size: .8rem;
+        line-height: 14px;
+    }
+
+    .last-page-cont>p,
+    .timer_text:last-child{
+        font-size: 1.1rem;
+    }
+
+    .timer__minut,
+    .timer_text{
+        font-size: 2rem;
+    }
+
+    .last-page__text-first{
+        width: 90%;
+    }
+
+    .last-page__text-second{
+        width: 90%;
+    }
+
+    .last-page-cont{
+        width: 90%;
+    }
+
+    .last-page::before,
+    .last-page::after{
+        width: 165px;
+        height: 165px;
+    }
+
+    .last-page::before{
+        left: -50px;
+    }
+
+    .last-page::after{
+        right: -50px;
+    }
+}
+
+@media screen and (max-width: 310px){
+    .last-page__call-btn{
+
+        width: 90%;
+
+    }
+}

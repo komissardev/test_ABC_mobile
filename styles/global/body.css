@@ -1,0 +1,25 @@
+body{
+    background-color: var(--bd-cr-black);
+}
+
+.body-cont{
+    overflow: hidden;
+}
+
+.root{
+    height: auto;
+}
+
+.body-cont__preloader{
+    position: fixed;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+    background-color: var(--bd-cr-black);
+    color: var(--cr-white);
+}

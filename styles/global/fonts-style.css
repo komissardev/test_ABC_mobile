@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=PT+Serif:wght@400;700&family=Roboto:wght@300;400;500;900&family=Yeseva+One&display=swap');
+:root{
+    --font-family-Roboto:'Roboto', sans-serif;
+    --font-family-PT_Serif:'PT Serif', serif;
+    --font-family-Merriweather: 'Merriweather', serif;
+    --font-family-Yeseva-One: 'Yeseva One', cursive;
+    font-size: 10px;
+}

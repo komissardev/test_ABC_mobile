@@ -1,0 +1,14 @@
+/*Global color variables style start*/
+:root{
+    --cr-white: #FFFFFF;
+    --cr-black: #000000;
+    --cr-pale-black:#0D0C11;
+    --cr-grey: #494f5f;
+    --cr-light-grey:#8E8E8E;
+    --cr-pale-grey:#272727;
+    --cr-light-grey: #c5c2c2;
+    --cr-pale-yellow:#F4CE0C;
+    --cr-yellow:#FFC700;
+    --cr-green:#3BDE7C;
+}
+/*Global color variables style end*/

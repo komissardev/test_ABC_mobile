@@ -1,0 +1,32 @@
+.warning{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: auto;
+    height: auto;
+}
+
+.warning p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 120px;
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--cr-black);
+    background-color: var(--cr-white);
+}
+
+._active_warning{
+    display: flex;
+    z-index: 7;
+}
