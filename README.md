@@ -8,3 +8,6 @@
 * после нажатия на кнопку звонка отправить запрос
 https://swapi.dev/api/people/1/
 * вывести полученные оформленные данные, а не json под кнопкой звонка
+## Request
+> Hello there!
+>> I was interested in doing this task. It took me 30 hours to complete. Please, if I do not suit you, give feedback regarding the task I completed. What would you advise me to fix. It is very important for me for my professional growth. Thank you.
