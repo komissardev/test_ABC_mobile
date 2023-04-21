@@ -10,7 +10,6 @@
     align-items: center;
     margin-top: 46px;
     width: 100%;
-    /* background-image: url("/assets/png/rain_bk.png"); */
     background-image: url("./assets/png/rain_bk.png");
     background-position: 50% 35%;
     background-repeat: repeat-y;
@@ -146,8 +145,7 @@
     transform: translateX(-50%);
     width: 16px;
     height: 16px;
-    /* background-image: url("/assets/svg/arrov.svg"); */
-    background-image: url("../../assets/svg/arrov.svg");
+    background-image: url("./assets/svg/arrov.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 10px 10px;
@@ -157,10 +155,8 @@
 
 .home-page__text{
     display: flex;
-    /* background: radial-gradient(84.34% 50.29% at 48.75% 49.71%, #2950C2 0%, rgba(38, 91, 199, 0.96) 40.62%, rgba(39, 98, 187, 0) 85.42%),
-    url("/assets/png/image.png"); */
     background: radial-gradient(84.34% 50.29% at 48.75% 49.71%, #2950C2 0%, rgba(38, 91, 199, 0.96) 40.62%, rgba(39, 98, 187, 0) 85.42%),
-    url("../../assets/png/image.png");
+    url("./assets/png/image.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -188,8 +184,7 @@
     position: absolute;
     width: 23px;
     height: 23px;
-    /* background-image: url("/assets/svg/brackets.svg"); */
-    background-image: url("../../assets/svg/brackets.svg");
+    background-image: url("./assets/svg/brackets.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -251,8 +246,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* background-image: url("/assets/png/rain_bk2.png"); */
-    background-image: url("../../assets/png/rain_bk2.png");
+    background-image: url("./assets/png/rain_bk2.png");
     background-position: center;
     background-repeat: repeat-x;
     background-size: cover;
@@ -265,8 +259,7 @@
     position: absolute;
     width: 165px;
     height: 165px;
-    /* background-image: url("/assets/png/lightning_PNG9.png"); */
-    background-image: url("../../assets/png/lightning_PNG9.png");
+    background-image: url(./assets/png/lightning_PNG9.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -412,8 +405,7 @@
     left: 0;
     top: 50%;
     transform: translateY(-50%);
-    /* background-image: url("/assets/svg/cod.svg"); */
-    background-image: url("../../assets/svg/cod.svg");
+    background-image: url("./assets/svg/cod.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
